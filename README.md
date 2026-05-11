@@ -43,5 +43,7 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
+[Ex_3_New_Prompt_Scenarios.docx](https://github.com/user-attachments/files/27585302/Ex_3_New_Prompt_Scenarios.docx)
 
 RESULT: 
+The different types of prompts, including Straightforward, Tabular Format, Preceding Question, and Missing Word prompting, were successfully explored and implemented across various scenarios. The exercise demonstrated how altering prompt structures can significantly influence the clarity, format, and depth of the AI's generated output.
